@@ -16,6 +16,6 @@ level 6 : using Oauth <br>
 
 There was an error when connecting to google oauth, however it was caused by just a typo.<br>![스크린샷 2021-08-10 오후 1 55 08](https://user-images.githubusercontent.com/50165633/128810304-af66cd08-1c77-49ea-927f-d2a22d907dd8.png)<br>
 
-<h2>Used tech<h2> 
+<h2>Used tech</h2> 
 Node.js / express / MongoDB - Robo 3T / mongoose
 
